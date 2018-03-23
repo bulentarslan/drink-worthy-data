@@ -13,7 +13,8 @@ Exploring the Iowa Liquor Sales dataset.
         + [How has demand for Jim Beam 1750ml varied over time?](#how-has-demand-varied-over-time)
         + [How has change in demand varied over time?](#how-has-change-in-demand-varied-over-time)
         + [Comparing demand, % change, and log diff distributions.](#comparing-demand-change-and-log-diff-distributions)
-        + [How do demand and change in demand vary month-to-month?](#how-do-demand-and-change-in-demand-vary-month-to-month)
+        + [How has demand varied month-to-month?](#how-has-demand-varied-month-to-month)
+        + [How has change in demand varied month-to-month?](#how-has-change-in-demand-varied-month-to-month)
     * [Taking a closer look at price (our predictor)](#taking-a-closer-look-at-price)
         + [How has price for Jim Beam 1750ml varied over time?](#how-has-price-varied-over-time)
         + [How has change in price varied over time?](#how-has-change-in-price-varied-over-time)
@@ -97,8 +98,13 @@ Exploring the Iowa Liquor Sales dataset.
 #### Comparing demand, % change, and log diff distributions.
 <img src="./img/demand_hist.png">
 
-<a name="how-do-demand-and-change-in-demand-vary-month-to-month"></a>
-#### How do demand and change in demand vary month-to-month?
+<a name="how-has-demand-varied-month-to-month"></a>
+#### How has demand varied month-to-month?
+<img src="./img/monthly_demand.png">
+
+<a name="how-has-change-in-demand-varied-month-to-month"></a>
+#### How has change in demand varied month-to-month?
+<img src="./img/monthly_change_in_demand.png">
 
 <a name="taking-a-closer-look-at-price"></a>
 ### Taking a closer look at price (our predictor)
