@@ -77,8 +77,12 @@ Exploring the Iowa Liquor Sales dataset.
 <a name="what-is-the-price-response"></a>
 #### What is the price-response for Jim Beam 1750ml?
 
+<img src="./img/price_response.png">
+
 <a name="log-log-price-response"></a>
 #### Log-log price-response?
+
+<img src="./img/log_log_price_response.png">
 
 <a name="taking-a-closer-look-at-demand"></a>
 ### Taking a closer look at demand (our response)
