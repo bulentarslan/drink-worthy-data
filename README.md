@@ -45,8 +45,34 @@ Exploring the Iowa Liquor Sales dataset.
 <a name="who-are-the-top-10-vendors-in-iowa"></a>
 #### Who are the top 10 vendors in Iowa?
 
+| ID  | Sales (Millions of $) | Vendor                             | 
+|-----|-----------------------|------------------------------------| 
+| 260 | 307.54                | Diageo Americas                    | 
+| 370 | 103.29                | Pernod Ricard USA/Austin Nichols   | 
+| 65  | 100.22                | Jim Beam Brands                    | 
+| 434 | 96.61                 | Luxco-St Louis                     | 
+| 115 | 85.89                 | "Constellation Wine Company, Inc." |
+| 85  | 80.92                 | Brown-Forman Corporation           | 
+| 421 | 79.48                 | "Sazerac Co., Inc."                | 
+| 35  | 67.17                 | "Bacardi U.S.A., Inc."             | 
+| 395 | 47.44                 | Proximo                            | 
+| 55  | 46.03                 | Sazerac North America              | 
+
 <a name="what-are-jim-beam-top-selling-liquors"></a>
 #### What are Jim Beam's top selling liquors?
+
+| ItemID | Sales (Millions of $) | VendorID | Item                  | Volume (ml) | 
+|--------|-----------------------|----------|-----------------------|-------------| 
+| 19068  | 5.39                  | 65       | Jim Beam              | 1750        | 
+| 19067  | 4.9                   | 65       | Jim Beam              | 1000        | 
+| 34578  | 4.33                  | 65       | Pinnacle Vodka        | 1750        | 
+| 15248  | 3.97                  | 65       | Windsor Canadian Pet  | 1750        | 
+| 19066  | 3.9                   | 65       | Jim Beam              | 750         | 
+| 19476  | 3.88                  | 65       | Maker's Mark          | 750         | 
+| 19477  | 3.82                  | 65       | Maker's Mark          | 1000        | 
+| 24458  | 3.26                  | 65       | Kessler Blend Whiskey | 1750        | 
+| 82847  | 3.09                  | 65       | Dekuyper Peachtree    | 1000        | 
+| 10628  | 2.63                  | 65       | Canadian Club Whisky  | 1750        | 
 
 <a name="what-is-the-price-response"></a>
 #### What is the price-response for Jim Beam 1750ml?
