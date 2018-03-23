@@ -76,12 +76,10 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="what-is-the-price-response"></a>
 #### What is the price-response for Jim Beam 1750ml?
-
 <img src="./img/price_response.png">
 
 <a name="log-log-price-response"></a>
 #### Log-log price-response?
-
 <img src="./img/log_log_price_response.png">
 
 <a name="taking-a-closer-look-at-demand"></a>
@@ -89,16 +87,15 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="how-has-demand-varied-over-time"></a>
 #### How has demand for Jim Beam 1750ml varied over time?
-
 <img src="./img/historical_demand.png">
 
 <a name="how-has-change-in-demand-varied-over-time"></a>
 #### How has change in demand varied over time?
-
 <img src="./img/historical_change_in_demand.png">
 
 <a name="comparing-demand-change-and-log-diff-distributions"></a>
 #### Comparing demand, % change, and log diff distributions.
+<img src="./img/demand_hist.png">
 
 <a name="how-do-demand-and-change-in-demand-vary-month-to-month"></a>
 #### How do demand and change in demand vary month-to-month?
