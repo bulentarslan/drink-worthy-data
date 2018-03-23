@@ -19,7 +19,8 @@ Exploring the Iowa Liquor Sales dataset.
         + [How has price for Jim Beam 1750ml varied over time?](#how-has-price-varied-over-time)
         + [How has change in price varied over time?](#how-has-change-in-price-varied-over-time)
         + [Comparing price, % change, and log diff distributions.](#comparing-price-change-and-log-diff-distributions)
-        + [How do price and change in price vary month-to-month?](#how-do-price-and-change-in-price-vary-month-to-month)
+        + [How has price varied month-to-month?](#how-has-price-varied-month-to-month)
+        + [How has change in price varied month-to-month?](#how-has-change-in-price-varied-month-to-month)
 - [Developing a demand model](#developing-a-demand-model)
     * [Modeling approach](#modeling-approach)
     * [Hyperparameter tuning](#hyperparameter-tuning)
@@ -119,9 +120,15 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="comparing-price-change-and-log-diff-distributions"></a>
 #### Comparing price, % change, and log diff distributions.
+<img src="./img/price_hist.png">
 
-<a name="how-do-price-and-change-in-price-vary-month-to-month"></a>
-#### How do price and change in price vary month-to-month?
+<a name="how-has-price-varied-month-to-month"></a>
+#### How has price varied month-to-month?
+<img src="./img/monthly_price.png">
+
+<a name="how-has-change-in-price-varied-month-to-month"></a>
+#### How has change in price varied month-to-month?
+<img src="./img/monthly_change_in_price.png">
 
 <a name="developing-a-demand-model"></a>
 ## Developing a demand model
