@@ -90,8 +90,12 @@ Exploring the Iowa Liquor Sales dataset.
 <a name="how-has-demand-varied-over-time"></a>
 #### How has demand for Jim Beam 1750ml varied over time?
 
+<img src="./img/historical_demand.png">
+
 <a name="how-has-change-in-demand-varied-over-time"></a>
 #### How has change in demand varied over time?
+
+<img src="./img/historical_change_in_demand.png">
 
 <a name="comparing-demand-change-and-log-diff-distributions"></a>
 #### Comparing demand, % change, and log diff distributions.
