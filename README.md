@@ -138,9 +138,12 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="hyperparameter-tuning"></a>
 ### Hyperparameter tuning
+<img src="./img/hyperparameter_tuning.png">
 
 <a name="residual-analysis"></a>
 ### Residual analysis
+<img src="./img/accuracy_residuals.png">
+<img src="./img/residuals_hist.png">
 
 <a name="error"></a>
 ### Error
