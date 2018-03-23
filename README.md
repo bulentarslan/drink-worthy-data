@@ -30,7 +30,6 @@ Exploring the Iowa Liquor Sales dataset.
     * [Seasonality coefficients](#seasonality-coefficient)
     * [Price elasticity coefficient](#price-elasticity-coefficient)
 - [Optimizing promotions to maximize profit](#optimizing-promotions-to-maximize-profit)
-    * [Optimization approach](#optimization-approach)
     * [Profit curves](#profit-curves)
 
 <a name="exploratory-data-analysis"></a>
@@ -164,8 +163,6 @@ Exploring the Iowa Liquor Sales dataset.
 <a name="optimizing-promotions-to-maximize-profit"></a>
 ## Optimizing promotions to maximize profit
 
-<a name="optimization-approach"></a>
-### Optimization approach
-
 <a name="profit-curves"></a>
 ### Profit curves
+<img src="./img/profitability.png">
