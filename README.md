@@ -111,9 +111,11 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="how-has-price-varied-over-time"></a>
 #### How has price for Jim Beam 1750ml varied over time?
+<img src="./img/historical_price.png">
 
 <a name="how-has-change-in-price-varied-over-time"></a>
 #### How has change in price varied over time?
+<img src="./img/historical_change_in_price.png">
 
 <a name="comparing-price-change-and-log-diff-distributions"></a>
 #### Comparing price, % change, and log diff distributions.
