@@ -147,15 +147,19 @@ Exploring the Iowa Liquor Sales dataset.
 
 <a name="error"></a>
 ### Error
+<img src="./img/rmse_distribution.png">
 
 <a name="inferring-seasonality-and-price-elasticity"></a>
 ## Inferring seasonality and price elasticity
 
 <a name="seasonality-coefficient"></a>
 ### Seasonality coefficients
+<img src="./img/seasonality_coef_hists.png">
+<img src="./img/seasonality.png">
 
 <a name="price-elasticity-coefficient"></a>
 ### Price elasticity coefficient
+<img src="./img/price_elasticity_hist.png">
 
 <a name="optimizing-promotions-to-maximize-profit"></a>
 ## Optimizing promotions to maximize profit
